@@ -101,4 +101,4 @@ function final(nome) {
     title.innerText = 'AGRADECIMENTOS'
     msg.innerHTML = `<h1>Olá, ${nome}!\nMuito obrigado por responder ao formulário. Até a próxima!!<h1>`
     document.body.removeChild(form);
-    document.body.appendChild(msg);}vv
+    document.body.appendChild(msg);}
