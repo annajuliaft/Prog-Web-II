@@ -1,0 +1,14 @@
+body{
+    height: auto;
+    background-color:  #FFFDF2;}
+header{
+    padding: 0 40px;
+    border-radius: 10px;
+   background-color: #DBB4AD;}
+h1{
+     font-family: arial; color : #AA4465; }
+h2 { font-family: arial; color : #DBB4AD; }
+p {font-family: arial; font-size: 150%; color : #451531}}
+div {
+    height:60cm
+}
